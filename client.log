@@ -1,0 +1,106 @@
+[10:53:2]  Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+[10:53:14]  Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+[18:48:24]  SanCord is activated. SanCord has synced 2 command(s)
+[18:48:24]  Embed.set_footer() takes 1 positional argument but 2 were given
+[18:49:41]  SanCord is activated. SanCord has synced 2 command(s)
+[18:49:41]  Embed.set_footer() takes 1 positional argument but 2 were given
+[18:50:16]  SanCord is activated. SanCord has synced 2 command(s)
+[18:51:27]  SanCord is activated. SanCord has synced 2 command(s)
+[18:52:8]  SanCord is activated. SanCord has synced 2 command(s)
+[18:52:45]  SanCord is activated. SanCord has synced 2 command(s)
+[18:53:12]  SanCord is activated. SanCord has synced 2 command(s)
+[18:59:54]  SanCord is activated. SanCord has synced 2 command(s)
+[18:59:54]  name 'string' is not defined
+[19:0:43]  SanCord is activated. SanCord has synced 2 command(s)
+[19:5:20]  SanCord is activated. SanCord has synced 2 command(s)
+[19:5:20]  expected string or bytes-like object, got 'list'
+[19:6:20]  SanCord is activated. SanCord has synced 2 command(s)
+[19:8:8]  SanCord is activated. SanCord has synced 2 command(s)
+[19:39:46]  SanCord is activated. SanCord has synced 2 command(s)
+[19:39:46]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.5.value: Must be 1024 or fewer in length.
+[19:39:46]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.5.value: Must be 1024 or fewer in length.
+[19:42:27]  SanCord is activated. SanCord has synced 2 command(s)
+[19:42:27]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.5.value: Must be 1024 or fewer in length.
+[19:44:2]  SanCord is activated. SanCord has synced 2 command(s)
+[19:44:2]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.5.value: Must be 1024 or fewer in length.
+[19:48:47]  SanCord is activated. SanCord has synced 2 command(s)
+[19:53:37]  SanCord is activated. SanCord has synced 2 command(s)
+[19:54:15]  SanCord is activated. SanCord has synced 2 command(s)
+[19:55:48]  SanCord is activated. SanCord has synced 2 command(s)
+[19:56:36]  SanCord is activated. SanCord has synced 2 command(s)
+[20:3:8]  SanCord is activated. SanCord has synced 2 command(s)
+[20:4:32]  SanCord is activated. SanCord has synced 2 command(s)
+[20:4:32]  Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+[20:4:32]  Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+[20:4:32]  Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+[23:25:6]  SanCord is activated. SanCord has synced 2 command(s)
+[23:25:6]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:26:30]  SanCord is activated. SanCord has synced 2 command(s)
+[23:26:30]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:34:5]  SanCord is activated. SanCord has synced 2 command(s)
+[23:34:5]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:36:16]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:37:10]  SanCord is activated. SanCord has synced 2 command(s)
+[23:37:10]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:37:36]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:37:36]  SanCord is activated. SanCord has synced 2 command(s)
+[23:39:16]  SanCord is activated. SanCord has synced 2 command(s)
+[23:39:16]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.1.description: This field is required
+[23:40:17]  SanCord is activated. SanCord has synced 2 command(s)
+[23:40:17]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:40:54]  SanCord is activated. SanCord has synced 2 command(s)
+[23:40:54]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.1.description: This field is required
+In embeds.2.description: This field is required
+[23:41:22]  SanCord is activated. SanCord has synced 2 command(s)
+[23:42:18]  SanCord is activated. SanCord has synced 2 command(s)
+[23:44:33]  SanCord is activated. SanCord has synced 2 command(s)
+[23:44:33]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds: Embed size exceeds maximum size of 6000
+[23:45:41]  SanCord is activated. SanCord has synced 2 command(s)
+[23:45:41]  400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.4.value: Must be 1024 or fewer in length.
+[23:46:47]  SanCord is activated. SanCord has synced 2 command(s)
+[23:47:43]  SanCord is activated. SanCord has synced 2 command(s)
+[23:48:40]  SanCord is activated. SanCord has synced 2 command(s)
+[23:50:26]  SanCord is activated. SanCord has synced 2 command(s)
+[23:52:2]  SanCord is activated. SanCord has synced 2 command(s)
+[23:52:33]  SanCord is activated. SanCord has synced 2 command(s)
+[23:57:19]  SanCord is activated. SanCord has synced 2 command(s)
+[23:59:24]  SanCord is activated. SanCord has synced 2 command(s)
+[0:0:17]  SanCord is activated. SanCord has synced 2 command(s)
+[0:0:55]  SanCord is activated. SanCord has synced 2 command(s)
+[0:0:55]  name 'status2add_field' is not defined
+[0:1:34]  SanCord is activated. SanCord has synced 2 command(s)
+[0:3:10]  SanCord is activated. SanCord has synced 2 command(s)
+[0:4:59]  SanCord is activated. SanCord has synced 2 command(s)
+[0:4:59]  Embed.add_field() missing 1 required keyword-only argument: 'name'
+[0:6:26]  SanCord is activated. SanCord has synced 2 command(s)
+[0:7:29]  SanCord is activated. SanCord has synced 2 command(s)
+[0:10:5]  SanCord is activated. SanCord has synced 2 command(s)
+[0:33:55]  SanCord is activated. SanCord has synced 2 command(s)
+[0:35:2]  SanCord is activated. SanCord has synced 2 command(s)
+[0:52:15]  SanCord is activated. SanCord has synced 2 command(s)
+[1:6:20]  Improper token has been passed.
+[1:7:5]  SanCord is activated. SanCord has synced 2 command(s)
+[1:13:10]  SanCord is activated. SanCord has synced 2 command(s)
+[1:15:3]  SanCord is activated. SanCord has synced 2 command(s)
+[1:16:37]  SanCord is activated. SanCord has synced 2 command(s)
+[1:18:25]  SanCord is activated. SanCord has synced 2 command(s)
+[1:19:41]  SanCord is activated. SanCord has synced 2 command(s)
+[1:20:15]  SanCord is activated. SanCord has synced 2 command(s)
+[1:23:38]  SanCord is activated. SanCord has synced 2 command(s)
+[1:34:21]  SanCord is activated. SanCord has synced 2 command(s)
+[1:35:17]  SanCord is activated. SanCord has synced 2 command(s)
